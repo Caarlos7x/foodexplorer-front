@@ -110,7 +110,7 @@ Clone o projeto, acesse a pasta e inicie o servidor.
 ```bash
 # Clone esse repositório
 $ git clone https://github.com/Caarlos7x/foodexplorer-back
-$ cd food-explorer-api
+$ cd foodexplorer-back
 $ npm install
 $ npm run dev
 ```
