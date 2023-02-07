@@ -12,8 +12,8 @@ Projeto Final do curso Explorer da Rocketseat:
 - Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
 - Deploy do projeto: https://foodexplorergb.netlify.app/
 - login admin: 
-email: admin@admin.com
-senha: 098765
+email: admin@foodexplorer.com
+senha: 123456
 
 
 ## 📦 Desenvolvimento
@@ -110,7 +110,7 @@ Clone o projeto, acesse a pasta e inicie o servidor.
 ```bash
 # Clone esse repositório
 $ git clone https://github.com/Caarlos7x/foodexplorer-back
-$ cd foodexplorer-back
+$ cd food-explorer-api
 $ npm install
 $ npm run dev
 ```
@@ -120,7 +120,7 @@ $ npm run dev
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/Caarlos7x/foodexplorer-back
+$ git clone https://github.com/Caarlos7x/foodexplorer-front
 $ cd food-explorer-frontend
 $ npm install
 $ npm run dev
@@ -130,5 +130,5 @@ $ npm run dev
 
 ## ✒️ Autor
 
-<p align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/carlos-augusto-dantas-frei-51502ba9/">Carlos Augusto</a></p>
+<p align="center">Feito com 💜 por <a href="https://www.linkedin.com/in/carlos-augusto-dantas-frei-51502ba9/">Carlos Augusto</a></p>
 
